@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital0,200;0,300;0,400;0,700;1,100;1,200;1,600&display=swap');
+
+*{
+    font-family: 'Poppins', sans-serif;
+   
+}
+
+*{
+    box-sizing: border-box;
+}
+
+
+/* ---------------------------------------------------------------------Hadder--------------------------------------------------------f--------------------------------------------------------- */
+
+.container img{
+    width: 100%;
+}
+.subtittle{
+    font-size: 300px;
+}
+.grupo1{
+    padding: 165px;
+}
+
+*::selection{
+    color: seagreen;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+}
+
+li{
+    margin: 0% 15px;
+    
+}
+.navbar a{
+    font-size: 20px;
+    color: #F2F2F2;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 15px;
+    background-color: rgba(0, 0, 0, 0.0);
+}
+header{
+   
+    height: 150vh;
+    background: url(./imagens/BG\ \(1\).png) no-repeat;
+    
+}
+.subtittle{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    letter-spacing: 0.2px;
+    color: #333;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 16px 0px;   
+}          
+
+h1{
+    left: 0px;
+    top: 0px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 16px 0px;
+    position: static;
+    font-weight: 800;
+    font-size: 60px;
+    line-height: 73px;
+    letter-spacing: 0.05rem;
+    color: #0C3A52;
+}
+
+/* ---------------------------------------------------------------------------------Body------------------------------------------------------------------------------------------------------ */
+
+body{
+    
+    background-color: #fff;
+;
+}
