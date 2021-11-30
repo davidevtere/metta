@@ -1,0 +1,36 @@
+.body {
+    font-family: 'Inter', sans-serif;
+}
+
+.links-header{
+    color: white !important;
+}
+
+a.links-header:hover {
+    color: #0C3A52 !important;
+
+}
+
+.logo-banner {
+    max-width: 100px;
+    max-height: 250px !important;
+    margin-bottom: 45px;
+}
+
+.banner-bg {
+    background-image: url("/assets/img-banner/bg-banner.png");
+    width: 100%;
+    height: 100%;
+    background-position: center;
+//cover?
+}
+
+.teste {
+    border: 5px solid red;
+}
+
+.banner-nav {
+    justify-content: flex-start;
+    display: flex-start;
+    text-align: justify;
+}
