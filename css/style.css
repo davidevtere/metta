@@ -60,3 +60,28 @@ Intermediate Section
 .font-cards {
     font-size:14px;
 }
+
+.bg-agronomia {
+    background-image: url(/assets/img-body/bg-agronomia.png);
+}
+
+.bg-engenharia {
+    background-image: url(/assets/img-body/bg-engenharia.png);
+}
+.bg-energiasolar {
+    background-image: url(/assets/img-body/bg-energiasolar.png);
+}
+
+.cards-right {
+    border-radius: 21px 21px 0 0;
+    width: 40%; 
+    height: 300px;
+    float: right;
+}
+
+.cards-left {
+    border-radius: 21px 21px 0 0;
+    width: 40%; 
+    height: 300px;
+    float: left;
+}
