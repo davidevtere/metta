@@ -37,6 +37,26 @@ a.links-header:hover {
 }
 
 /* =================================================================
-Section 2
+Footer
 */
 
+.img-footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.color-footer {
+    background-color: #0B0D17;
+}
+
+.ul-color {
+    color: #FFF;
+}
+
+/* =================================================================
+Intermediate Section
+*/
+.font-cards {
+    font-size:14px;
+}
